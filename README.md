@@ -38,10 +38,9 @@ This year's game, **High Stakes**, shares several similarities with a previous V
 - Level 3 elevation (12 points) offers a great advantage, though it will be prioritized *after* ring and stake scoring optimization.
 
 📌 *Elevation bar layout image:*  
-**[Insert Elevation Bar Image Link Here]**
+<img src="https://github.com/asoma0710/VEXRobotics/blob/main/media/V5RC24-25%20Ladder.png
+" alt="Ring Image" width="400"/>
 
-📌 *Example of a level 3 elevation success:*  
-**[Insert Level 3 Climb Image or Video Link Here]**
 
 ---
 
@@ -96,10 +95,9 @@ I actively participated in the **initial design phase** of both robots and contr
 
 ## 📅 Roadmap (Next Steps)
 
-- [ ] Finalize Autonomous GPS Routing  
-- [ ] Improve Ring Detection via Vision Sensor  
-- [ ] Tune Climber Weight Balance  
-- [ ] Test Full Match Strategy  
+- We could not participate in the competiton because of the scheduling and the shortcomings of the bot
+- Rules and competition format chnaged
+- We are gonna put all our learnings to the next bot design and the format
 
 ---
 
