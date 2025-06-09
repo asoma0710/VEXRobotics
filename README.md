@@ -69,7 +69,8 @@ I actively participated in the **initial design phase** of both robots and contr
 ### 🔹 Bot A (Rings + Stakes)
 
 - ✅ Manual control works for grabbing and moving stakes.
-- 📹 **[Insert Video Link of Bot A in Manual Mode Here]**
+- 📹 **Bot A Manual Mode Demo:**  
+  [![Watch Video](https://img.youtube.com/vi/uc48Un5ns_c/hqdefault.jpg)](https://youtube.com/shorts/uc48Un5ns_c)
 - 🔄 Currently working on **autonomous mode**, including:
   - Onboard **GPS tracking**
   - **Team-color ring identification**
