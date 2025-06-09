@@ -78,7 +78,7 @@ I actively participated in the **initial design phase** of both robots and contr
   - **Vision sensor integration** for navigation and ring pickup
 
 📸 **Design image of Bot A:**  
-**[Insert Image Link Here]**
+<img src="https://github.com/asoma0710/VEXRobotics/blob/main/media/2024-25%20Main%20Bot%20From%20Side%20(2).JPG" alt="Ring Image" width="400"/>
 
 ---
 
@@ -88,39 +88,11 @@ I actively participated in the **initial design phase** of both robots and contr
 - Prioritizing weight balance and consistent grip for level 3 climbs.
 
 📸 **Design image of Bot B:**  
-**[Insert Image Link Here]**
+<img src="https://github.com/asoma0710/VEXRobotics/blob/main/media/Spring%202025%2015in%20Bot%20(1).JPG" alt="Ring Image" width="400"/>
 
 ---
 
-## 💬 Contributions & Ideas Welcome
 
-These designs are based on careful review of the game manual, competitor strategies, and past VEX competitions.  
-We welcome feedback and suggestions to refine our bots further.
-
-> *“Would love anyone else’s opinion on these and any more design ideas that could lead to a successful robot/s.”*  
-> — **Gus B**
-
----
-
-## 📂 Media Gallery
-
-| Media Type       | Description                           | Link/Status                      |
-|------------------|---------------------------------------|----------------------------------|
-| 📷 Bot A Design   | Ring + Stake Handler (Primary Bot)    | [Insert Image Link]              |
-| 📷 Bot B Design   | Climber Bot (Endgame)                 | [Insert Image Link]              |
-| 📹 Bot A Video    | Manual Mode Test                      | [Insert YouTube Link]            |
-| 📷 Elevation Bar  | Field Element Measurement             | [Insert Image Link]              |
-| 📹 Level 3 Climb  | Example Success                       | [Insert YouTube Link]            |
-
----
-
-## 📘 Additional Notes
-
-- Game Manual Reviewed: ✅  
-- Field Layout Studied: ✅  
-- Competition Goals Set: 🏆 Score high with stakes and rings first, then climb.
-
----
 
 ## 📅 Roadmap (Next Steps)
 
