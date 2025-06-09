@@ -28,7 +28,7 @@ This year's game, **High Stakes**, shares several similarities with a previous V
 - Mobility is crucial: fast, reactive movement to beat the opposing team to stakes.
 
 📌 *Example ring image:*  
-**[Insert Ring Image Link Here]**
+<img src="https://your-image-url.com/ring.jpg" alt="Ring Image" width="400"/>
 
 ---
 
