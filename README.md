@@ -2,7 +2,7 @@
 
 ## 🏁 Overview
 
-This repository documents our journey and design decisions for the **VEX High Stakes Competition (2024–25)**. As a team, we designed and built **two distinct robots** to handle the dual challenges in this year's game:
+This repository documents our journey and design decisions for the **VEX High Stakes Competition (2024–25)**. As a team, we designed and built **two distinct robots** to handle the dual challenges in last year's game:
 
 - 🔵 **Bot A**: Designed to **grab rings, stack them on stakes**, and **move stakes** to designated zones.
 - 🟢 **Bot B**: A compact and agile climber built to **ascend the elevation bars** for high-scoring endgame bonuses.
